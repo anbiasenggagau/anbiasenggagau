@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anbiasenggagau
 - 👀 I’m interested in IoT and Technolgy
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning to be Software Engineer
 - 📫 How to reach me, email : muhammadsenggagau@gmail.com
 
 <!---
